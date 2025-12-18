@@ -44,5 +44,5 @@ The objective of the game is to survive as long as possible, avoid enemies, and 
 
 Clone the repository:
 ```bash
-git clone https://github.com/y
+git clone https://github.com/imnavneetgurjar/dino-run.git
 
